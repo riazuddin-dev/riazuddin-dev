@@ -1,3 +1,8 @@
+
+<img width="1400" height="350" alt="image" src="https://github.com/user-attachments/assets/c3ac9389-454a-4118-938d-47e9a071ef60" />
+
+
+
 <h1 align="center">Hi 👋, I'm MD Riaz Uddin</h1>
 <h3 align="center">Frontend Developer • Next.js Specialist</h3>
 
