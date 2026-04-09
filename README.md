@@ -46,10 +46,10 @@
 
 ## 📊 GitHub Analytics
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=riazuddin-dev&show_icons=true&theme=tokyonight" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riazuddin-dev&layout=compact&theme=tokyonight" height="160"/>
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=riazuddin-dev&theme=tokyonight" />
