@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm MD Riaz Dddin</h1>
+<h1 align="center">Hi 👋, I'm MD Riaz Uddin</h1>
 <h3 align="center">Frontend Developer | Next.js Specialist Creating fast, responsive, and user-centric web applications.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riazuddin-dev&label=Profile%20views&color=0e75b6&style=flat" alt="riazuddin-dev" /> </p>
