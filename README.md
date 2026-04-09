@@ -11,9 +11,9 @@
   <img src="https://komarev.com/ghpvc/?username=riazuddin-dev&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=riazuddin-dev&theme=onedark&no-frame=true&row=1&column=6" />
-</p>
+</p> -->
 
 ---
 
